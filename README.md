@@ -6,7 +6,7 @@
 # ---------------------------------------------------
 User       : Chinmay
 Role       : Technical Solutions Consultant (Linux)
-Location   : Pune, India]
+Location   : Pune, India
 Uptime     : 3.3 Years of Experience
 Shell      : /bin/bash
 
