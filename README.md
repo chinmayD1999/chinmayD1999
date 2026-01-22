@@ -33,7 +33,7 @@ $ pkg list --installed
 # ---------------------------------------------------
 # NETWORK CONNECTIVITY
 # ---------------------------------------------------
-$ ping [Your Name]
+$ ping Chinmay
 Reply from LinkedIn: www.linkedin.com/in/chinmay-d-40957b252
 Reply from Email:    chinmayfd@gmail.com
 Reply from Blog:     Coming Soon!!
