@@ -15,7 +15,7 @@ Shell      : /bin/bash
 # ---------------------------------------------------
 $ cat active_projects.txt
 > 🏗️ Built/Configured Linux VMs (OS, Net, Monitor)
-> 🔎 Strong troubleshooting (Filesystems, Services, Perf)
+> 🔎 Strong troubleshooting (Filesystems, Services )
 > 💾 Hands-on experience with Linux storage & networking
 > 🕸️ Provided support for cluster & standalone servers
 > 📚 Maintained Linux KB, SOP, and MOP documentation
@@ -25,7 +25,7 @@ $ cat active_projects.txt
 # ---------------------------------------------------
 $ pkg list --installed
 [✔] OS          : RHEL, CentOS, Ubuntu, OpenSuse
-[✔] Automation  : Ansible, Terraform, Puppet
+[✔] Automation  : Ansible, Bash
 [✔] Scripting   : Bash, Ansible
 [✔] Web Servers : Nginx, Apache, HAProxy
 [✔] Editors     : Vim (Yes, I know how to exit)
