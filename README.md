@@ -34,9 +34,9 @@ $ pkg list --installed
 # NETWORK CONNECTIVITY
 # ---------------------------------------------------
 $ ping Chinmay
-Reply from LinkedIn: www.linkedin.com/in/chinmay-d-40957b252
+Reply from LinkedIn: https://tr.ee/E8OcK9MVzF
 Reply from Email:    chinmayfd@gmail.com
-Reply from Blog:     Coming Soon!!
+Reply from Blog:     https://tr.ee/EBOupph37q
 
 ---
 # "There is no place like ~"
